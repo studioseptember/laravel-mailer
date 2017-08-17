@@ -1,9 +1,13 @@
 {
-    "name": "hydreflab/laravel-mailer",
+    "name": "studioseptember/laravel-sendgrid-mailer",
     "authors": [
         {
             "name": "Michał Golon",
             "email": "gollum@desmart.com"
+        },
+        {
+            "name": "Daan Meijer",
+            "email": "daan@studioseptember.nl"
         }
     ],
     "require": {
